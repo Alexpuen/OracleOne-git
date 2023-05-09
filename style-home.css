@@ -1,0 +1,99 @@
+header{
+    background-color: #CCCC;
+    padding: 20px 0;
+}
+
+.box{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    justify-content: center;
+    margin: 0 0 0 15px;
+    
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color:#c78c19;
+    text-decoration: underline;
+}
+
+
+
+#banner{
+    width: 100%;
+}
+
+.princTitle{
+    padding-left: 30px;
+}
+
+.principal{
+    background-color: #CCC;
+}
+
+.CentTitle{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+p {
+font-size:  20px;;
+text-align: center;
+}
+
+
+
+#clientes{
+    color: red;
+}
+
+.diferenciales{
+    background-color: #fff;
+}
+
+
+.principal em{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgDif{
+    width: 50%;
+
+}
+footer{
+    text-align: center;
+    background: url(imagenes/bg.jpg);
+    padding:40px;
+}
+
+.copyrigth{
+    color: #fff;
+    font-size: 13px;
+    margin: 20px;
+}
